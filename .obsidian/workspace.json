@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "报错/端口号占用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "端口号占用 的大纲"
             }
           },
           {
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "9df3db146e03ad5f",
   "lastOpenFiles": [
     "ChenMiLin/线程强占.md",
     "ChenMiLin/十月八日总结.md",
