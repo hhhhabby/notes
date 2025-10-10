@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "垃圾",
+                "query": "同包",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -235,13 +235,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "i18n:I18N": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "12a7968c0d84c569",
   "lastOpenFiles": [
+    "Java  se/继承.md",
+    "算法/线性表/链表.md",
     "算法/存储结构.md",
     "算法/排序算法.md",
     "算法/数据结构.md",
@@ -277,11 +278,9 @@
     "一轮遗留面试问题/二轮面试/算法不足.md",
     "今日新学/hot100",
     "一轮遗留面试问题/二轮面试/不足.md",
-    "算法/线性表/链表.md",
     "算法/线性表/list.md",
     "算法/线性表/线性表.md",
     "算法/线性表/顺序列表的增删改查.md",
-    "JVM/垃圾回收/clean和垃圾回收.md",
     "JVM/垃圾回收",
     "JVM",
     "报错/未命名",
