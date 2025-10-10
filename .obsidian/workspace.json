@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f757f7185d1e482",
+        "id": "453f09a3103e7653",
         "type": "tabs",
         "children": [
           {
-            "id": "9229db61dcc9c84d",
+            "id": "f8f2556404364717",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "测试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "测试"
             }
           }
         ]
@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9229db61dcc9c84d",
+  "active": "52b19e2abc86f487",
   "lastOpenFiles": [
+    "测试.md",
     "tlias项目/车载系统.md",
     "报错/端口号占用.md",
     "ChenMiLin/线程强占.md",
@@ -221,7 +222,6 @@
     "Java  se/数据类型与引用类型与包装类.md",
     "tlias项目/注解.md",
     "tlias项目/面试.md",
-    "Java  se/符号.md",
     "Pasted image 20251008211125.png",
     "Pasted image 20251008210030.png",
     "Pasted image 20251008205337.png",
