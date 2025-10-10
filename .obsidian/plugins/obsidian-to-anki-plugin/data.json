@@ -1,0 +1,333 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "AK划线": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "AK划线+": "",
+      "AK问答": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "AK问答+": "",
+      "Basic": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Basic (and reversed card)": "",
+      "Basic (and reversed card)-e2c0e": "",
+      "Basic-": "",
+      "Basic-04eee": "",
+      "Cloze-67daf": "",
+      "Image Occlusion Enhanced": "",
+      "Image Occlusion Enhanced+": "",
+      "Kevin Mindmap Card v2": "",
+      "图片遮盖": "",
+      "基础-eefbd": "",
+      "填空题": "",
+      "填空题-88f93": "",
+      "知识点-Basic (Leaflyer)": "",
+      "考研数学": "",
+      "问答题": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "问答题-e8ed9": "",
+      "问答题（同时生成翻转的卡片<可选>）": "",
+      "问答题（同时生成翻转的卡片）": "",
+      "问答题（输入答案）": "",
+      "问答题-3efb5": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "AK划线": "正面",
+      "AK划线+": "划线",
+      "AK问答": "正面",
+      "AK问答+": "问题",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (and reversed card)-e2c0e": "Front",
+      "Basic-": "Front",
+      "Basic-04eee": "Front",
+      "Cloze-67daf": "Text",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Image Occlusion Enhanced+": "ID (hidden)",
+      "Kevin Mindmap Card v2": "ID",
+      "图片遮盖": "遮盖",
+      "基础-eefbd": "正面",
+      "填空题": "文字",
+      "填空题-88f93": "文字",
+      "知识点-Basic (Leaflyer)": "问题",
+      "考研数学": "正面",
+      "问答题": "正面",
+      "问答题-e8ed9": "正面",
+      "问答题（同时生成翻转的卡片<可选>）": "正面",
+      "问答题（同时生成翻转的卡片）": "正面",
+      "问答题（输入答案）": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "前端日记": "",
+      "日记": ""
+    },
+    "FOLDER_TAGS": {
+      "前端日记": "",
+      "日记": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 360,
+      "Add File Link": true,
+      "Add Context": false,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": true,
+      "ID Comments": true,
+      "Add Obsidian Tags": true
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [
+    "Pasted image 20250714100002.png",
+    "Pasted image 20250716204414.png",
+    "Pasted image 20250716205650.png",
+    "Pasted image 20250722152021.png"
+  ],
+  "File Hashes": {
+    "日记/七月十三日.md": "ff7afc84bbe929943afec5c6b78dbe12",
+    "日记/七月十日.md": "18684379d772043617657903029c5174",
+    "日记/七月十一日.md": "4140f6df994ed873868dc7cbab425cc1",
+    "日记/TODO.md": "07214f58d54bcb21b8b345e5807a61cd",
+    "前端日记/第五天CSS.md": "45dac5f49eaf7afeecf9ec592b521856",
+    "前端日记/第四天CSS选择器.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "前端日记/第6天CSS.md": "4dbd72b274c021d4e136950f2ed11a09",
+    "前端日记/TODO.md": "58f63ecb2d06119a47e402966b589296",
+    "前端日记/mutter.md": "c775812db88215cd0be92876e6f7cf1b",
+    "TARGET DECK.md": "43f0aa2347dd00948e98cdc3d588d213",
+    "前端日记/第七天CSS浮动.md": "3d317b9e5ece6a4afbe5af6ebe195869",
+    "前端日记/第一天.md": "b6906dbb504cee06073c534f035c1be7",
+    "前端日记/TARGET DECK.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "前端日记/项目.md": "bb64751006fd43fb8773810e05a054e2",
+    "前端日记/第六天CSS盒子模型.md": "f5b97162d8cb8f3168fc121c4315300d",
+    "前端日记/第八天定位.md": "7f528847b77d00b8124a524935bb3b49",
+    "前端日记/第九天零零散散知识点.md": "4e91ed3b4c4549a23b502c8f5588f015",
+    "前端日记/Mutter.md": "b179fa1e81d6b4c906b0680ccf7b9ddb",
+    "日记/七月二十七日.md": "2a0112741c7cff9594f65866db08ebac",
+    "日记/七月二十五日.md": "37fcb1d7dfcfbb253a21571e0f6bcd49",
+    "MySQL/第二天.md": "3496e38b623d4dd569252147d8f265b9",
+    "MySQL/第三天.md": "785c704a693bafd1bc1e6a842d0494f4",
+    "面试问题/二轮面试/算法不足.md": "8fd9830cd32585c6649aaae4e3136aa8",
+    "面试问题/二轮面试/不足.md": "b3060d43da6d92f5f8a0e52951531be9",
+    "苍穹外卖/我想解决的问题.md": "53eb514a6f34a545caacd7a1f2ed3d46",
+    "苍穹外卖/密文密码加密.md": "c6217bf1d12a71cb6c13aee1bca43096",
+    "苍穹外卖/处理重复插入.md": "c04703aa6def7740b767452fcbf4e92a",
+    "苍穹外卖/分页查询.md": "11179ea9c149c04e2811d778b4df9bf3",
+    "苍穹外卖/全流程与ThreadLocal.md": "e59b9af658814d9481b29f2ffb18399f",
+    "苍穹外卖/yml.md": "440e16012ec157749380288ad048d41f",
+    "苍穹外卖/nginx.md": "ae10cf3bbae9328f54c61e12e60dc9a6",
+    "苍穹外卖/thread.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "苍穹外卖/Swagger注解 DTO VO.md": "712768628a5ed756da07b039819041ac",
+    "苍穹外卖/json与query.md": "b0962ac9c8bdd36587dfbdf061220b05",
+    "算法/数据结构.md": "7f908b5ab686a141c3d54a1dd5819c87",
+    "算法/存储结构.md": "647c33c0c5fa9cd06e3a411d73bb1dca",
+    "算法/排序算法.md": "bf7462a8f511a1405c5786b8b76cbede",
+    "照片/链表.md": "8900230bda93af4d4385f184259fce75",
+    "照片/Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "日记/八月二十三日 Back  date.md": "7dbc66786b8fc5f76ccc144c808f5943",
+    "日记/九月二日.md": "af9f771f93e5a8d5b7a673efba0977b8",
+    "日记/八月二十七.md": "bb262b99c12734393b15f7c0a4b89579",
+    "日记/1.md": "0f375efb5a39a35676fd4bf391e0789b",
+    "日记/Mutter.md": "a89b1d32224985910cc346f0cb6553be",
+    "前端日记/JS.md": "5d583bce685ac8a3f5456fee911df18c",
+    "tlias项目/面试.md": "141d3e7be57de42e69669c4d1d1df5b5",
+    "tlias项目/车载系统.md": "561365a26e4371841faea994d6fd957e",
+    "tlias项目/简历.md": "0fb9f8b6eaf7e47bd102e51fdc5f63bc",
+    "tlias项目/短信发送.md": "e6907b107031400023e97a0dd36c05f3",
+    "tlias项目/注解.md": "0fe153b147c5dbf564b08a6faf688b3e",
+    "tlias项目/增删改查.md": "dbf359cd39057daf3c528cbc1f026fbf",
+    "tlias项目/控制反转ioc.md": "d9993a562b99335604745ef1b24ddc15",
+    "tlias项目/事物处理.md": "77eb7d4ba70520b2088bdf7c6d11246b",
+    "tlias项目/前后端交互.md": "37ee34c731d1e1d485ea726b8f2a5008",
+    "tlias项目/spring生命周期.md": "5df2535cc84882fce3c5d187c578c201",
+    "tlias项目/Springboot.md": "f4115e1cbdb02ffe900045529c246ee0",
+    "JAVAweb/第二天.md": "61c080a539d5ae5d3c57caff094b06ee",
+    "JAVAweb/第三天Myabatis.md": "1d1dbb192a119f40a1ae622c5609e388",
+    "JAVAweb/第一天.md": "dd3e3ff962f0afc6b384ac73a9648e83",
+    "JAVAweb/操作.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "JAVAweb/案例第三天（day11）.md": "32af86c66b785ef3d1e7cd8c89459b46",
+    "JAVAweb/maven配置问题.md": "c94bcb29e079ff8705308fcf07da0cfc",
+    "Java  se/继承.md": "6a3e4e0ab714b3f1616dca05989772c0",
+    "Java  se/数组.md": "87daa89ab3a0088eee0202320ef92e08",
+    "Java  se/方法.md": "b69a226a4877b4db8ad157160a3e0b0e",
+    "Java  se/接口和类.md": "70543151298a8b2c760fc16ec373129e",
+    "Java  se/栈和堆.md": "486e61f64b2437389879e0fdfa4f6141",
+    "Java  se/循环.md": "6fe2101197afd912953109c1becfdf33",
+    "Java  se/异常.md": "2d030b4e191db8bd3e8cceb389adc32f",
+    "Java  se/封装.md": "7099b273ff33f645c0bf72922e7f2e77",
+    "Java  se/如何处理高并发.md": "94dd018ed522bc53d48877649f9434f6",
+    "Java  se/多态.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Java  se/基础.md": "6121822c2e5a771d70d25d5089f575c7",
+    "Java  se/修饰符.md": "0a770eb2608340202b3ed431591f988b",
+    "Java  se/JVM.md": "87017e1db7dfe098c04ac38023f765b3",
+    "苍穹外卖/新增员工.md": "d40d5dd8e0acc76936a543a85d34c792",
+    "苍穹外卖/连接数据库.md": "980abb89ee2772d22d7a7db23500853c",
+    "苍穹外卖/修改员工.md": "f715c2f99d3abe63063e487279fa2c69",
+    "苍穹外卖/返回.md": "ae0acc4fbe6ee29540212c1549ae2cd6",
+    "苍穹外卖/禁止使用.md": "d32991be649218d13b255fd81161310a",
+    "MySQL/增删改查.md": "a4b5497ae4149cb8229dc348a8fcff2d",
+    "苍穹外卖/Swagger.md": "24ff7715ef972ddbd7a26a00e734ddf9",
+    "苍穹外卖/DTO.md": "b9501097a5a378282fbb5e9f53988482",
+    "苍穹外卖/禁止启用员工.md": "1ec561aa0f926ad731e3815f1ed88ec7",
+    "苍穹外卖/员工功能/设置对象的属性.md": "fe281dd061b0e6659e10c329c87d0a58",
+    "苍穹外卖/员工功能/分页查询与Threadlocal.md": "2acd12f72c466a67b3737ce760c1ca8c",
+    "苍穹外卖/员工功能/修改员工.md": "73712db807f2546b4b401d6955012beb",
+    "苍穹外卖/员工功能/新增员工.md": "003f610c3f4858d33dd6c968d7aa7113",
+    "苍穹外卖/总结.md": "53eb514a6f34a545caacd7a1f2ed3d46",
+    "苍穹外卖/是否需要返回对象？.md": "2a0f6bedf368fc4a4f30a52e0c34404e",
+    "苍穹外卖/菜品管理/公共字段自动填充.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "苍穹外卖/总结/cq.md": "53eb514a6f34a545caacd7a1f2ed3d46",
+    "苍穹外卖/总结/设置对象的属性.md": "fe281dd061b0e6659e10c329c87d0a58",
+    "苍穹外卖/员工功能/分类管理功能.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "苍穹外卖/员工功能/禁止启用员工.md": "ba76e87780e217aeffe063b87e5df363",
+    "MySQL/错题.md": "1dc42473ec2724d7805acd9b715fa3a0",
+    "Java  se/集合.md": "3e65fd75e92869233215d3100b49573d"
+  },
+  "fields_dict": {
+    "AK划线": [
+      "正面",
+      "背面"
+    ],
+    "AK划线+": [
+      "划线"
+    ],
+    "AK问答": [
+      "正面",
+      "背面"
+    ],
+    "AK问答+": [
+      "问题",
+      "答案"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)-e2c0e": [
+      "Front",
+      "Back",
+      "a"
+    ],
+    "Basic-": [
+      "Front",
+      "Back"
+    ],
+    "Basic-04eee": [
+      "Front",
+      "Back"
+    ],
+    "Cloze-67daf": [
+      "Text",
+      "Extra"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Image Occlusion Enhanced+": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Kevin Mindmap Card v2": [
+      "ID",
+      "MapID",
+      "Path",
+      "Front",
+      "Back",
+      "Source",
+      "Notes"
+    ],
+    "图片遮盖": [
+      "遮盖",
+      "图片",
+      "头部",
+      "背面额外",
+      "注释"
+    ],
+    "基础-eefbd": [
+      "正面",
+      "背面"
+    ],
+    "填空题": [
+      "文字",
+      "背面额外"
+    ],
+    "填空题-88f93": [
+      "文字",
+      "额外的/注释",
+      "排序",
+      "来源",
+      "制卡日期",
+      "主题词",
+      "Note ID"
+    ],
+    "知识点-Basic (Leaflyer)": [
+      "问题",
+      "答案",
+      "笔记",
+      "相关知识"
+    ],
+    "考研数学": [
+      "正面",
+      "背面"
+    ],
+    "问答题": [
+      "正面",
+      "背面"
+    ],
+    "问答题-3efb5": [
+      "正面",
+      "背面"
+    ],
+    "问答题-e8ed9": [
+      "正面",
+      "背面"
+    ],
+    "问答题（同时生成翻转的卡片<可选>）": [
+      "正面",
+      "背面",
+      "添加翻转的卡片"
+    ],
+    "问答题（同时生成翻转的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "问答题（输入答案）": [
+      "正面",
+      "背面"
+    ]
+  }
+}
