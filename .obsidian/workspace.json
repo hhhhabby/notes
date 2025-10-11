@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12a7968c0d84c569",
+  "active": "52b19e2abc86f487",
   "lastOpenFiles": [
+    "今日新学/未命名",
     "算法/线性表/list.md",
     "算法/线性表/线性表.md",
     "算法/线性表/顺序列表的增删改查.md",
@@ -280,7 +281,6 @@
     "第三个项目/admin/moudle/websokect/干什么的.md",
     "第三个项目/数据库连接/1.md",
     "报错/端口号占用.md",
-    "一轮遗留面试问题/二轮面试/算法不足.md",
     "今日新学/hot100",
     "JVM/垃圾回收",
     "JVM",
