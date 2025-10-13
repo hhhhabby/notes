@@ -165,14 +165,23 @@
               "icon": "lucide-list",
               "title": "链表 的大纲"
             }
+          },
+          {
+            "id": "61944b9f072b3d5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "2f1a6cd4162b6157",
   "lastOpenFiles": [
     "今日新学/1012/修改菜品.md",
     "今日新学/1012/删除菜品.md",
