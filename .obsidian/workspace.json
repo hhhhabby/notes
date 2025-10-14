@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "61944b9f072b3d5c",
   "lastOpenFiles": [
     "Pasted image 20251013233131.png",
     "github技巧/代码的根目录.md",

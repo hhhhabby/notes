@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChenMiLin/十月八日总结.md",
+                "file": "今日新学/十月八日/clean和垃圾回收.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "十月八日总结"
+              "title": "clean和垃圾回收"
+            }
+          },
+          {
+            "id": "a2efd4e45a6037c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "今日新学/十月十日/JVM/垃圾回收/内存泄漏和内存溢出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "内存泄漏和内存溢出"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,6 +167,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618ada4867a719e1",
-  "lastOpenFiles": []
+  "active": "32b74bf1f4a0f698",
+  "lastOpenFiles": [
+    "未.md",
+    "今日新学/1012/新增菜品.md",
+    "今日新学/1011/三层架构/动态XML.md",
+    "Pasted image 20251011222401.png",
+    "/苍穹外卖/菜品管理/未命名.md",
+    "苍穹外卖/菜品管理/未命名.md",
+    "/苍穹外卖/菜品管理",
+    "/未.md",
+    "/今日新学/1012/新增菜品.md",
+    "/今日新学/1011/三层架构/动态XML.md",
+    "/Pasted image 20251011222401.png",
+    "今日新学/1012/删除菜品.md",
+    "今日新学/1012/修改菜品.md",
+    "未命名.md",
+    "报错/未命名/未命名.md",
+    "如何自动刷课.md",
+    "今日新学/1012/菜品分页查询.md",
+    "今日新学/1011/新增菜品/阿里oss.md",
+    "今日新学/1011/新增菜品/新增菜品和口味.md",
+    "今日新学/1011/接口文档/返回数据.md",
+    "今日新学/1011/接口文档/接口文档.md",
+    "今日新学/1011/公共字段填充.md",
+    "今日新学/1011/三层架构/S.md",
+    "今日新学/1011/三层架构/M.md",
+    "今日新学/1011/三层架构/C.md",
+    "github技巧/改私有.md",
+    "github技巧/代码的根目录.md",
+    "Pasted image 20251013233131.png",
+    "Pasted image 20251013230036.png",
+    "Pasted image 20251013225926.png",
+    "Pasted image 20251013155526.png",
+    "Pasted image 20251013155512.png",
+    "Pasted image 20251012204402.png",
+    "Pasted image 20251012201210.png",
+    "Pasted image 20251012175731.png",
+    "/今日新学/1012/删除菜品.md",
+    "/今日新学/1012/修改菜品.md",
+    "今日新学/1012",
+    "今日新学/1011/新增菜品",
+    "今日新学/1011/接口文档",
+    "今日新学/1011/三层架构",
+    "github技巧",
+    "/报错/未命名",
+    "报错/未命名",
+    "/报错",
+    "/今日新学/1012"
+  ]
 }
