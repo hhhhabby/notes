@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今日新学/1014/启用禁用.md",
+                "file": "报错/未命名/绑定异常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "启用禁用"
+              "title": "绑定异常"
             }
           }
         ],
@@ -212,8 +212,9 @@
   },
   "active": "76904a869d6c1a2c",
   "lastOpenFiles": [
-    "未命名.md",
     "今日新学/1014/启用禁用.md",
+    "报错/未命名/绑定异常.md",
+    "未命名.md",
     "今日新学/1014",
     "套餐管理",
     "未命名 1.md",
@@ -257,7 +258,6 @@
     "报错/未命名/端口号占用.md",
     "苍穹外卖/总结/需要返回对象吗.md",
     "苍穹外卖/未命名.md",
-    "如何自动刷课.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
