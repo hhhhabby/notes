@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今日新学/1011/新增菜品/阿里oss.md",
+                "file": "苍穹外卖/异常处理/事物处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阿里oss"
+              "title": "事物处理"
+            }
+          },
+          {
+            "id": "76904a869d6c1a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "今日新学/1014/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "f0f38ec33af0140e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tlias项目/面试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试"
+            }
+          },
+          {
+            "id": "d9f40edaeee9bcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -68,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阿里",
+                "query": "get set",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,54 +239,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61944b9f072b3d5c",
+  "active": "d9f40edaeee9bcae",
   "lastOpenFiles": [
-    "Pasted image 20251013233131.png",
-    "github技巧/代码的根目录.md",
-    "Pasted image 20251013230036.png",
-    "github技巧/改私有.md",
+    "tlias项目/面试.md",
+    "未命名 2.md",
+    "苍穹外卖/两大思想/控制反转ioc.md",
+    "苍穹外卖/知识点/DTO.md",
+    "苍穹外卖/总结/设置对象的属性.md",
+    "今日新学/1012/删除菜品.md",
+    "苍穹外卖/知识点/全流程与ThreadLocal.md",
+    "Java  se/继承.md",
+    "Java  se/封装与包装类.md",
+    "苍穹外卖/员工功能/分页查询与Threadlocal.md",
+    "未命名 1.md",
+    "今日新学/1014/未命名.md",
+    "Pasted image 20251015193312.png",
+    "今日新学/1013/修改员工.md",
     "今日新学/1012/修改菜品.md",
+    "今日新学/1013/未命名.md",
+    "今日新学/1011/新增菜品/新增菜品和口味.md",
+    "今日新学/1012/新增菜品.md",
+    "今日新学/1011/新增菜品/阿里oss.md",
+    "今日新学/1011/三层架构/C/C.md",
+    "今日新学/1011/三层架构/C/返回类型Result   String.md",
+    "今日新学/1011/三层架构/C/返回参数.md",
+    "今日新学/1011/三层架构/C",
+    "Pasted image 20251015111036.png",
+    "Pasted image 20251015110949.png",
+    "Pasted image 20251015110859.png",
+    "今日新学/1011/接口文档/返回数据.md",
+    "苍穹外卖/总结/是否需要返回对象？.md",
+    "苍穹外卖/总结/需要返回对象吗.md",
+    "报错/未命名/绑定异常.md",
+    "今日新学/1014/启用禁用.md",
+    "今日新学/1014",
+    "套餐管理",
+    "Pasted image 20251014202934.png",
+    "Pasted image 20251014202446.png",
+    "Pasted image 20251014202412.png",
+    "2019-4死锁1-20230814005444749.png",
+    "Pasted image 20251014194432.png",
+    "Pasted image 20251014192058.png",
+    "今日新学/十月十日/Redis",
+    "今日新学/十月十日/JVM/垃圾回收",
+    "今日新学/十月十日/JVM",
     "github技巧",
     "github/未命名",
     "github",
-    "Pasted image 20251013225926.png",
-    "未.md",
-    "Pasted image 20251013155526.png",
-    "Pasted image 20251013155512.png",
-    "今日新学/1012/删除菜品.md",
-    "今日新学/1012/新增菜品.md",
     "今日新学/1013",
-    "今日新学/1012/菜品分页查询.md",
-    "今日新学/1011/新增菜品/新增菜品和口味.md",
-    "今日新学/1012",
-    "报错/未命名/未命名.md",
-    "Pasted image 20251012204402.png",
-    "Pasted image 20251012201210.png",
-    "报错/端口号占用.md",
-    "未命名.md",
-    "Pasted image 20251012175731.png",
-    "苍穹外卖/总结/需要返回对象吗.md",
-    "苍穹外卖/未命名.md",
-    "如何自动刷课.md",
-    "今日新学/1011/三层架构/动态XML.md",
-    "今日新学/十月八日/AOP.md",
-    "今日新学/十月八日/线程强占.md",
-    "今日新学/十月八日/十月八日总结.md",
-    "今日新学/1011/三层架构/M.md",
-    "今日新学/1011/三层架构/S.md",
-    "今日新学/1011/三层架构/C.md",
-    "今日新学/1011/接口文档/返回数据.md",
-    "今日新学/1011/三层架构",
-    "Pasted image 20251011222440.png",
-    "Pasted image 20251011222437.png",
-    "Pasted image 20251011222401.png",
-    "今日新学/1011/接口文档/接口文档.md",
-    "今日新学/1011/接口文档",
-    "苍穹外卖/删除菜品",
-    "苍穹外卖/菜品管理/未命名.md",
-    "今日新学/1011/新增菜品/阿里oss.md",
-    "今日新学/1011/新增菜品",
-    "今日新学/1011",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
