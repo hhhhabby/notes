@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java  se/接口和类和Main和方法.md",
+                "file": "算法/数组/数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "接口和类和Main和方法"
+              "title": "数组"
             }
           }
         ],
@@ -337,8 +337,17 @@
   },
   "active": "3221d3dc216e3023",
   "lastOpenFiles": [
-    "Java  se/数据类型与引用类型与包装类.md",
+    "算法/数组",
+    "前端日记/第六天CSS盒子模型.md",
+    "算法/数组/数组.md",
+    "前端日记/第九天零零散散知识点.md",
+    "前端日记/第八天定位.md",
+    "前端日记/1.md",
+    "前端日记/项目.md",
+    "前端日记/JS.md",
+    "前端日记/第一天.md",
     "Java  se/接口和类和Main和方法.md",
+    "Java  se/数据类型与引用类型与包装类.md",
     "Java  se/数组.md",
     "Java  se/形参和实参值.md",
     "Java  se/循环.md",
@@ -356,12 +365,6 @@
     "报错/未命名/端口号占用.md",
     "未.md",
     "测试.md",
-    "如何自动刷课.md",
-    "报错/未命名/反射异常.md",
-    "报错/未命名/挂梯子.md",
-    "报错/未命名/索引越界.md",
-    "未命名 7.md",
-    "未命名 4.md",
     "Pasted image 20251015111036.png",
     "Pasted image 20251015193312.png",
     "Pasted image 20251020161615.png",
@@ -371,11 +374,8 @@
     "Pasted image 20251014192058.png",
     "Pasted image 20251013225926.png",
     "Pasted image 20251013155512.png",
-    "项目需求.md",
     "Pasted image 20251009204125.png",
     "未命名",
-    "照片/链表.md",
-    "照片/Untitled.md",
     "Grab_Callback.java",
     "算法/队列",
     "今日新学/1011/三层架构/C",
