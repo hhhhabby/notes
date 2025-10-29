@@ -231,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 860.5
+    "width": 241.5
   },
   "right": {
     "id": "cbbd8b17f492af73",
@@ -334,7 +334,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "3221d3dc216e3023",
   "lastOpenFiles": [
     "java ee/容器.md",
     "java ee/如何处理高并发.md",
