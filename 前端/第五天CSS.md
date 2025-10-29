@@ -1,7 +1,4 @@
 input的修改输入框的大小（但是位置？）
-**你好
-*你好*
-==你好==
 ## 文字
 	实现文字中间：a{text-align:center}
 	实现文字居中：行高line-hight等于盒高font-size

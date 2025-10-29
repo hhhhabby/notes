@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java ee/链表.md",
+                "file": "前端/flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "链表"
+              "title": "flex"
             }
           }
         ],
@@ -323,6 +323,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "i18n:I18N": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -336,6 +337,24 @@
   },
   "active": "3221d3dc216e3023",
   "lastOpenFiles": [
+    "前端/第九天零零散散知识点.md",
+    "前端/flex.md",
+    "前端/第六天CSS盒子模型.md",
+    "前端/第七天CSS浮动.md",
+    "前端/第四天CSS选择器.md",
+    "前端/第五天CSS.md",
+    "前端/第一天.md",
+    "前端/项目.md",
+    "前端/JS.md",
+    "JAVAweb/案例第三天（day11）.md",
+    "前端/1.md",
+    "JAVAweb/第二天.md",
+    "JAVAweb/操作.md",
+    "JAVAweb/第三天Myabatis.md",
+    "未命名 1.base",
+    "未命名.md",
+    "未命名.base",
+    "java ee/链表.md",
     "java ee/容器.md",
     "java ee/如何处理高并发.md",
     "java ee/异常.md",
@@ -347,25 +366,7 @@
     "2019-4死锁1-20230814005444749.png",
     "bug.md",
     "Untitled.md",
-    "未命名.md",
-    "未命名.base",
-    "未命名 1.base",
-    "未命名 3.md",
-    "未命名 1.md",
-    "未命名 2.md",
-    "未命名 4.md",
-    "未命名 5.md",
-    "课外知识/api.md",
-    "日记/七月十日.md",
-    "日记/七月十一日.md",
-    "日记/Mutter.md",
-    "日记/TODO.md",
-    "课外知识/github技巧/代码的根目录.md",
     "课外知识",
-    "日记/1.md",
-    "日记/七月二十五日.md",
-    "日记/七月二十七日.md",
-    "日记/九月二日.md",
     "照片/Pasted image 20251028232015.png",
     "照片/Pasted image 20251028231826.png",
     "报错/maven",
