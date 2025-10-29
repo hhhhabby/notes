@@ -163,12 +163,14 @@
             "id": "3221d3dc216e3023",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2019-4死锁1-20230814005444749.png"
+                "file": "Java  se/数据类型与引用类型与包装类.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2019-4死锁1-20230814005444749"
+              "icon": "lucide-file",
+              "title": "数据类型与引用类型与包装类"
             }
           }
         ],
@@ -204,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "驼峰",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,7 +227,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,11 +335,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "3221d3dc216e3023",
   "lastOpenFiles": [
+    "2019-4死锁1-20230814005444749.png",
     "bug.md",
     "Untitled.md",
-    "2019-4死锁1-20230814005444749.png",
     "未命名.md",
     "未命名.base",
     "未命名 1.base",
@@ -363,7 +366,6 @@
     "模型问题记录/todo.md",
     "今日新学/1011/公共字段填充.md",
     "报错/maven/找不到 jar 包.md",
-    "报错/maven/jdk版本不对.md",
     "照片/Pasted image 20251028232015.png",
     "照片/Pasted image 20251028231826.png",
     "报错/maven",
