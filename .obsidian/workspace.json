@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/flex.md",
+                "file": "前端/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flex"
+              "title": "未命名"
             }
           }
         ],
@@ -337,15 +337,16 @@
   },
   "active": "3221d3dc216e3023",
   "lastOpenFiles": [
-    "前端/第七天CSS浮动.md",
+    "前端/JS.md",
+    "前端/未命名.md",
     "前端/flex.md",
+    "前端/第七天CSS浮动.md",
     "前端/第九天零零散散知识点.md",
     "前端/第六天CSS盒子模型.md",
     "前端/第四天CSS选择器.md",
     "前端/第五天CSS.md",
     "前端/第一天.md",
     "前端/项目.md",
-    "前端/JS.md",
     "JAVAweb/案例第三天（day11）.md",
     "前端/1.md",
     "JAVAweb/第二天.md",
@@ -365,7 +366,6 @@
     "Java  se/数据类型与引用类型与包装类.md",
     "2019-4死锁1-20230814005444749.png",
     "bug.md",
-    "Untitled.md",
     "课外知识",
     "照片/Pasted image 20251028232015.png",
     "照片/Pasted image 20251028231826.png",
