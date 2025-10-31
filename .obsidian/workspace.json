@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVAweb/第三天Myabatis.md",
+                "file": "前端/JS/函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三天Myabatis"
+              "title": "函数"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分页查询",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,12 +227,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cbbd8b17f492af73",
@@ -338,11 +338,14 @@
   },
   "active": "3221d3dc216e3023",
   "lastOpenFiles": [
+    "前端/JS.md",
+    "前端/JS/函数.md",
+    "前端/JS",
+    "JAVAweb/第三天Myabatis.md",
     "苍穹外卖/员工功能/分页查询与Threadlocal.md",
     "tlias项目/简历.md",
     "今日新学/1012/菜品分页查询.md",
     "前端/增删项目.md",
-    "前端/JS.md",
     "前端/flex.md",
     "前端/第七天CSS浮动.md",
     "前端/第九天零零散散知识点.md",
@@ -355,7 +358,6 @@
     "前端/1.md",
     "JAVAweb/第二天.md",
     "JAVAweb/操作.md",
-    "JAVAweb/第三天Myabatis.md",
     "未命名 1.base",
     "未命名.md",
     "未命名.base",
@@ -365,7 +367,6 @@
     "java ee/异常.md",
     "java ee/栈和堆.md",
     "java ee/JVM.md",
-    "java ee/线程/多线程/多线程共享对象.md",
     "2019-4死锁1-20230814005444749.png",
     "课外知识",
     "照片/Pasted image 20251028232015.png",
@@ -383,7 +384,6 @@
     "算法/队列",
     "今日新学/1011/三层架构/C",
     "今日新学/1014",
-    "套餐管理",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
