@@ -115,7 +115,10 @@
       "前端": "",
       "前端/JS": "",
       "算法/栈": "",
-      "JVM": ""
+      "JVM": "",
+      "Redis": "",
+      "感悟": "",
+      "苍穹外卖/两大思想/题库": ""
     },
     "FOLDER_TAGS": {
       "前端日记": "",
@@ -178,7 +181,10 @@
       "前端": "",
       "前端/JS": "",
       "算法/栈": "",
-      "JVM": ""
+      "JVM": "",
+      "Redis": "",
+      "感悟": "",
+      "苍穹外卖/两大思想/题库": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -193,7 +199,7 @@
     "Defaults": {
       "Scan Directory": "",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "AOP",
+      "Deck": "JAVA EE:AOp",
       "Scheduling Interval": 360,
       "Add File Link": true,
       "Add Context": false,
@@ -441,7 +447,9 @@
     "前端/增删项目.md": "2c6092089c6ca226e4edad130cbd4d9c",
     "前端/flex.md": "9d5f2c620ecaaece4ad114715b243cad",
     "前端/JS/函数.md": "4108d51c67887a593b7ce70b3ad882b7",
-    "苍穹外卖/两大思想/题库/aop.md": "0b5090bf735017b1f4daeddbe41ac79b"
+    "苍穹外卖/两大思想/题库/aop.md": "0b5090bf735017b1f4daeddbe41ac79b",
+    "日记/十月八日总结.md": "e25744696dacc86de09babaabc1c9c69",
+    "多线程/锁.md": "7b52fa25d890d5fc42c70260d1a14f6d"
   },
   "fields_dict": {
     "AK划线": [
