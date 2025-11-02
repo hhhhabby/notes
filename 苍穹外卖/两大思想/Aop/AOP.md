@@ -1,3 +1,5 @@
+
+一个标准的模板 ![[Pasted image 20251009204125.png]]
 # IOC 与 AOP 是 “基础支撑” 与 “功能实现” 的关系：
 
 - **IOC 是前提**：日志切面类（如`LogAspect`）和被日志增强的目标对象（如`UserService`），都需要被 IOC 容器管理（加`@Component`等注解）——IOC 负责创建这些对象并纳入容器，为 AOP 提供 “可操作的目标”。
@@ -35,26 +37,6 @@ Spring AOP 就是基于动态代理的。
 
 4. 若目标方法是private/final：CGLIB 代理会失效（无法继承），需改用 JDK 动态代理（目标类实现接口）或移除private/final修饰。
 
-
-
-
-### 一、简答题（共 4 题）
-
-1.  请简述 AOP（面向切面编程）的核心定义，以及它解决了传统 OOP（面向对象编程）中的什么问题？
-2.  “连接点（待增强对象方法）
-	”“切入点（指向简化的指针）” 
-	”“通知（提取的简化方法）
-
-什么时候用方法？
-	/切面（通知+切入点）
-	切面类（通知+切点表达式+类名）
-3.  列举 Spring AOP 中支持的 5 种通知类型，并简要说明每种通知的执行时机。
-4.  简述 AOP 动态代理的两种实现方式（JDK 动态代理、CGLIB 动态代理）的核心区别，以及 Spring AOP 默认使用哪种代理方式？
-### 二、选择题（共 3 题，每题只有 1 个正确答案）
-1.  下列关于 Spring AOP 与 AspectJ 的说法，错误的是（  ）
-    A. Spring AOP 基于动态代理实现，AspectJ 基于编译期 / 类加载期织入实现
-    B. Spring AOP 支持 AspectJ 的注解（如 @Aspect、@Before），但不依赖 AspectJ 核心包
-    C. AspectJ 的功能比 Spring AOP 更完整，支持更多切入点表达式和通知类型
 
 # 切点表达式
 
@@ -126,9 +108,6 @@ Xml
 
 
 ## 二、切面类完整实现（时间统计示例） #flashcard
-
-
-
 
 ```java
 import org.aspectj.lang.ProceedingJoinPoint;
