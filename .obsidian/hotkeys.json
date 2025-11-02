@@ -1,1 +1,10 @@
-{}
+{
+  "xmind-linker:extract-xmind-thumbnail": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ]
+}

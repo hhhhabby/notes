@@ -112,7 +112,10 @@
       "今日新学/1010/JVM/垃圾回收": "",
       "今日新学/1011/三层架构/C": "",
       "第三个项目/admin/moudle/websokect": "",
-      "前端": ""
+      "前端": "",
+      "前端/JS": "",
+      "算法/栈": "",
+      "JVM": ""
     },
     "FOLDER_TAGS": {
       "前端日记": "",
@@ -172,7 +175,10 @@
       "今日新学/1010/JVM/垃圾回收": "",
       "今日新学/1011/三层架构/C": "",
       "第三个项目/admin/moudle/websokect": "",
-      "前端": ""
+      "前端": "",
+      "前端/JS": "",
+      "算法/栈": "",
+      "JVM": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -187,7 +193,7 @@
     "Defaults": {
       "Scan Directory": "",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "项目",
+      "Deck": "AOP",
       "Scheduling Interval": 360,
       "Add File Link": true,
       "Add Context": false,
@@ -266,7 +272,7 @@
     "tlias项目/spring生命周期.md": "5df2535cc84882fce3c5d187c578c201",
     "tlias项目/Springboot.md": "f4115e1cbdb02ffe900045529c246ee0",
     "JAVAweb/第二天.md": "61c080a539d5ae5d3c57caff094b06ee",
-    "JAVAweb/第三天Myabatis.md": "1d1dbb192a119f40a1ae622c5609e388",
+    "JAVAweb/第三天Myabatis.md": "5d6cdb61aa1b7ea7c100576c371ac5c0",
     "JAVAweb/第一天.md": "dd3e3ff962f0afc6b384ac73a9648e83",
     "JAVAweb/操作.md": "d41d8cd98f00b204e9800998ecf8427e",
     "JAVAweb/案例第三天（day11）.md": "764cd5895e614e4ed132b6d62e1acfbc",
@@ -382,11 +388,11 @@
     "今日新学/1010/Redis/文档基础.md": "f8b11001dd7d74a1d63cbf5775f66f2c",
     "今日新学/1010/JVM/垃圾回收/内存泄漏和内存溢出.md": "d41d8cd98f00b204e9800998ecf8427e",
     "今日新学/1008/线程强占.md": "2a503de198c39d4d0b533985d06a3062",
-    "今日新学/1008/十月八日总结.md": "a04355341cd57b43036dbaa475a02a9e",
+    "今日新学/1008/十月八日总结.md": "e25744696dacc86de09babaabc1c9c69",
     "今日新学/1008/SDK和JDK和语言版本.md": "09f6fe0bdbe4a4f95e5f18d85cb503d5",
     "今日新学/1008/maven编译和启动编译.md": "78d7c8a4c6df9df61a9778093805f8e7",
     "今日新学/1008/JVM.md": "59f3da76804c21d65130d0d3bbcf903e",
-    "今日新学/1008/AOP.md": "7e182c69d85a4f83e66a37d683766d55",
+    "今日新学/1008/AOP.md": "81ccdd9c8767f1b2b3ca3fac35cf188c",
     "今日新学/1008/clean和垃圾回收.md": "354e509f06ddcd3bf0c803284a218ebb",
     "一轮遗留面试问题/二轮面试/算法不足.md": "8fd9830cd32585c6649aaae4e3136aa8",
     "一轮遗留面试问题/二轮面试/不足.md": "88ea73b783ec60140fa61cdc9a4ef5fe",
@@ -417,16 +423,24 @@
     "Java  se/形参和实参值.md": "60e66e360b6a214b050b828c8f3ab1d5",
     "Java  se/接口.md": "4ad5b4cc240496b25ce28c6cb7862263",
     "Java  se/封装与包装类.md": "cc031e4b89f1a79e9c60193fd8afb725",
-    "bug.md": "d4bd19ff6878af5ac5208036bf05791c",
+    "bug.md": "398ebf9507c35ef58bf3d57577b9018c",
     "前端/第六天CSS盒子模型.md": "f5b97162d8cb8f3168fc121c4315300d",
     "前端/第四天CSS选择器.md": "d41d8cd98f00b204e9800998ecf8427e",
     "前端/项目.md": "019903cfcfc14c323798d2a14cbe4836",
     "前端/第八天定位.md": "7f528847b77d00b8124a524935bb3b49",
     "前端/第五天CSS.md": "aeb9e4a2f9983fe16cf077aebc1bcfce",
     "前端/第九天零零散散知识点.md": "333ea86d1e556290bbf7bb1209ac18fa",
-    "前端/第七天CSS浮动.md": "3d317b9e5ece6a4afbe5af6ebe195869",
+    "前端/第七天CSS浮动.md": "0e0e007e3fe9c24c477c0e641933ab6e",
     "前端/第一天.md": "b6906dbb504cee06073c534f035c1be7",
-    "前端/JS.md": "5d583bce685ac8a3f5456fee911df18c"
+    "前端/JS.md": "5d583bce685ac8a3f5456fee911df18c",
+    "JVM/JVM.md": "7f53368152984f4acf0d5f38a7a36e0f",
+    "jvm详解.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "课外知识/clean和垃圾回收.md": "c7abde6f9d22e4b489dafec8f70d2244",
+    "课外知识/maven编译和启动编译.md": "78d7c8a4c6df9df61a9778093805f8e7",
+    "算法/栈/未命名.md": "c2aa2612bb2fc40140b0d5321ac5fbcd",
+    "前端/增删项目.md": "2c6092089c6ca226e4edad130cbd4d9c",
+    "前端/flex.md": "9d5f2c620ecaaece4ad114715b243cad",
+    "前端/JS/函数.md": "4108d51c67887a593b7ce70b3ad882b7"
   },
   "fields_dict": {
     "AK划线": [
