@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今日新学/1010/队列/1.md",
+                "file": "思考/选择java还是py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "选择java还是py"
             }
           },
           {
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cbbd8b17f492af73",
@@ -269,6 +270,9 @@
   },
   "active": "8a507a694626fffc",
   "lastOpenFiles": [
+    "今日新学/1010/队列/1.md",
+    "思考/选择java还是py.md",
+    "思考",
     "java ee/泛型.md",
     "java ee/反射.md",
     "Java  se/继承.md",
@@ -289,14 +293,12 @@
     "今日新学/1010/JVM/垃圾回收/内存泄漏和内存溢出.md",
     "Redis",
     "今日新学/1010/Redis/文档基础.md",
-    "今日新学/1010/队列/1.md",
     "多线程/锁.md",
     "感悟/七月二十七日.md",
     "感悟/七月二十五日.md",
     "感悟/七月十日.md",
     "感悟/七月十一日.md",
     "感悟/十月八日总结.md",
-    "今日新学/1008/AOP.md",
     "苍穹外卖/两大思想/未命名.canvas",
     "Pasted image 20251009204125.png",
     "苍穹外卖/两大思想/题库",
@@ -309,7 +311,6 @@
     "前端/JS",
     "未命名 1.base",
     "未命名.base",
-    "课外知识",
     "照片/Pasted image 20251028232015.png",
     "照片/Pasted image 20251028231826.png",
     "照片/Pasted image 20251028230159.png",
