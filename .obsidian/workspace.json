@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "思考/图片预处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "图片预处理"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "擦除",
+                "query": "相对",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -285,6 +285,8 @@
   "active": "66c4c0705d8bb4bb",
   "lastOpenFiles": [
     "思考/选择java还是py.md",
+    "思考/图片预处理.md",
+    "前端/第八天定位.md",
     "未命名 1.md",
     "今日新学/1010/队列/1.md",
     "思考",
@@ -311,8 +313,6 @@
     "多线程/锁.md",
     "感悟/七月二十七日.md",
     "感悟/七月二十五日.md",
-    "感悟/七月十日.md",
-    "感悟/七月十一日.md",
     "苍穹外卖/两大思想/未命名.canvas",
     "Pasted image 20251009204125.png",
     "苍穹外卖/两大思想/题库",
