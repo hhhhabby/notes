@@ -118,7 +118,8 @@
       "JVM": "",
       "Redis": "",
       "感悟": "",
-      "苍穹外卖/两大思想/题库": ""
+      "苍穹外卖/两大思想/题库": "",
+      "Java  se/封装题库": ""
     },
     "FOLDER_TAGS": {
       "前端日记": "",
@@ -184,7 +185,8 @@
       "JVM": "",
       "Redis": "",
       "感悟": "",
-      "苍穹外卖/两大思想/题库": ""
+      "苍穹外卖/两大思想/题库": "",
+      "Java  se/封装题库": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -199,7 +201,7 @@
     "Defaults": {
       "Scan Directory": "",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "JAVA EE:AOp",
+      "Deck": "JAVA :: AOp",
       "Scheduling Interval": 360,
       "Add File Link": true,
       "Add Context": false,
@@ -415,12 +417,12 @@
     "java ee/线程/多线程/多线程的六种状态.md": "9be0c104301f0fd80692382f31d11bfc",
     "java ee/线程/多线程/多线程共享对象.md": "0ecfc420c342558d753b843d6637dab9",
     "java ee/线程/多线程/多线程.md": "234f6231216349f273823888d957eed7",
-    "java ee/泛型.md": "ee738936705fc7f162b26c3284f02388",
+    "java ee/泛型.md": "2ea79caf9c03cba25aff6b9eb0b0b37b",
     "java ee/栈和堆.md": "6a9b166e6caffe03041ff91b4fe76803",
     "java ee/异常.md": "2d030b4e191db8bd3e8cceb389adc32f",
     "java ee/容器.md": "4c24abacd1b44fa8d921eedc80ba91f0",
     "java ee/如何处理高并发.md": "394017fbb136ad4da4a95cc55ce6828a",
-    "java ee/反射.md": "fb6a80d20f8ffb50ef18608d415677e2",
+    "java ee/反射.md": "3a72340dbe4c34c96b222507bd387f92",
     "java ee/JVM.md": "87017e1db7dfe098c04ac38023f765b3",
     "Java  se/返回值.md": "ee44b748004f4c9ee457762e8f928beb",
     "Java  se/符号.md": "31bc86f6883706d958c21069b8bb868a",
@@ -449,7 +451,19 @@
     "前端/JS/函数.md": "4108d51c67887a593b7ce70b3ad882b7",
     "苍穹外卖/两大思想/题库/aop.md": "0b5090bf735017b1f4daeddbe41ac79b",
     "日记/十月八日总结.md": "e25744696dacc86de09babaabc1c9c69",
-    "多线程/锁.md": "7b52fa25d890d5fc42c70260d1a14f6d"
+    "多线程/锁.md": "2c9a281fb9a0803ef6716d589556868a",
+    "感悟/十月八日总结.md": "e25744696dacc86de09babaabc1c9c69",
+    "感悟/八月二十七.md": "bb262b99c12734393b15f7c0a4b89579",
+    "感悟/八月二十三日 Back  date.md": "7dbc66786b8fc5f76ccc144c808f5943",
+    "感悟/九月二日.md": "af9f771f93e5a8d5b7a673efba0977b8",
+    "感悟/七月十日.md": "18684379d772043617657903029c5174",
+    "感悟/七月二十五日.md": "37fcb1d7dfcfbb253a21571e0f6bcd49",
+    "感悟/七月十一日.md": "4140f6df994ed873868dc7cbab425cc1",
+    "感悟/TODO.md": "07214f58d54bcb21b8b345e5807a61cd",
+    "感悟/七月二十七日.md": "2a0112741c7cff9594f65866db08ebac",
+    "感悟/Mutter.md": "a89b1d32224985910cc346f0cb6553be",
+    "Java  se/拿取一个类的值.md": "8054b709d1dea7b8fa58a404abf39069",
+    "Java  se/封装题库/题.md": "989a0e49734529c22139732c3d8d7327"
   },
   "fields_dict": {
     "AK划线": [
