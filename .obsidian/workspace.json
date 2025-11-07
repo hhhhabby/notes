@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/递归/为什么需要递归.md",
+                "file": "算法/队列/队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么需要递归"
+              "title": "队列"
             }
           },
           {
@@ -298,8 +298,10 @@
   },
   "active": "4c9234d794e84d20",
   "lastOpenFiles": [
-    "TCP和UDP/未命名.md",
+    "算法/存储结构.md",
+    "算法/排序算法.md",
     "算法/递归/为什么需要递归.md",
+    "TCP和UDP/未命名.md",
     "算法/递归",
     "TCP和UDP/未命名.canvas",
     "第三个项目/简介.md",
@@ -328,8 +330,6 @@
     "Java  se/基础.md",
     "Java  se/返回值.md",
     "Java  se/封装题库",
-    "tlias项目/面试.md",
-    "tlias项目/简历.md",
     "Redis",
     "苍穹外卖/两大思想/未命名.canvas",
     "Pasted image 20251009204125.png",
