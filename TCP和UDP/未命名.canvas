@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"7973fab702de46ec","type":"text","text":"Sockect","x":-144,"y":-287,"width":250,"height":60},
+		{"id":"ec86c3fbffe9b82e","type":"text","text":"Packet","x":-144,"y":0,"width":250,"height":60},
+		{"id":"bd4c12398cc24ebb","type":"text","text":"发送/接受数据","x":-144,"y":-135,"width":250,"height":60},
+		{"id":"03c3b53534e6a5d1","type":"text","text":"实现连续通话","x":-640,"y":-144,"width":250,"height":60},
+		{"id":"6d8215bb093a58bf","type":"text","text":"发送","x":200,"y":-227,"width":250,"height":60},
+		{"id":"c0f4db3891aaf997","type":"text","text":"扫描输入行","x":520,"y":-167,"width":250,"height":50},
+		{"id":"0a539bdc21874797","type":"text","text":"字符串","x":520,"y":-287,"width":250,"height":60},
+		{"id":"36910ca7baf9a1f0","type":"text","text":"转数组","x":820,"y":-282,"width":250,"height":50},
+		{"id":"646645f941c4c073","type":"text","text":"容器大小","x":558,"y":-26,"width":250,"height":50},
+		{"id":"1dea3ea7db617d02","type":"text","text":"接收","x":200,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7ed29ba71aef0eca","fromNode":"03c3b53534e6a5d1","fromSide":"right","toNode":"7973fab702de46ec","toSide":"left"},
+		{"id":"d7b0261010b89898","fromNode":"0a539bdc21874797","fromSide":"right","toNode":"36910ca7baf9a1f0","toSide":"left"},
+		{"id":"282c40f7902b68de","fromNode":"03c3b53534e6a5d1","fromSide":"right","toNode":"bd4c12398cc24ebb","toSide":"left"},
+		{"id":"0b6035b3443406b7","fromNode":"03c3b53534e6a5d1","fromSide":"right","toNode":"ec86c3fbffe9b82e","toSide":"left"},
+		{"id":"41b5e2708121fa75","fromNode":"bd4c12398cc24ebb","fromSide":"right","toNode":"6d8215bb093a58bf","toSide":"left"},
+		{"id":"b912806bc312b7a3","fromNode":"0a539bdc21874797","fromSide":"left","toNode":"6d8215bb093a58bf","toSide":"right"},
+		{"id":"fd27ce9b9b4dc9aa","fromNode":"6d8215bb093a58bf","fromSide":"right","toNode":"c0f4db3891aaf997","toSide":"left"},
+		{"id":"b835b19e1ad74ae8","fromNode":"bd4c12398cc24ebb","fromSide":"right","toNode":"1dea3ea7db617d02","toSide":"left"},
+		{"id":"4082cae29e2bbfd4","fromNode":"1dea3ea7db617d02","fromSide":"right","toNode":"646645f941c4c073","toSide":"left"}
+	]
+}
